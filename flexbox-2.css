@@ -8,6 +8,7 @@ body{
     align-items: flex-start;
     justify-content: space-around;
     gap: 10px;
+    text-align: center;
 }
 .mini-container-1:hover{
     border: 5px solid white;
@@ -21,7 +22,7 @@ body{
     
     border: 5px solid white;
     box-shadow: 0 4px 8px rgba(0,0,0, 1);
-    
+    /*text-align: center;*/
 }
 #image{
     height: 500px;
@@ -42,7 +43,7 @@ body{
 }
 .footer{
     width: 100%;
-    text-align: right;
+    text-align:center;
     padding: 10px 20px;
     box-sizing: border-box;
     color: #333;
